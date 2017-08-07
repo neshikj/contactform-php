@@ -2,7 +2,7 @@
 /**
  * This is the main bootstrap file.
  *
- * It loads the DI configurations `app/config/di.php`, sets up routes,
+ * It loads the DI configurations `app/di.php`, sets up routes,
  * loads configuration variables and then calls the controller defined in the routes.
  *
  * Autowiring and annotation use is on, so easy dependency injection is enabled
