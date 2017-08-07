@@ -10,6 +10,7 @@ It includes the following out of the box:
 - Error logging via [Monolog](https://github.com/Seldaek/monolog)
 - Input validation with ["beberlei/assert"](https://github.com/beberlei/assert) (usage example in `Models/Question.php`)
 - Basic database access via [PDO](http://php.net/manual/en/book.pdo.php) - connection defined in `.env` file.
+- Loading environment variables from `.env` to `getenv()` via ["vlucas/phpdotenv"](https://github.com/vlucas/phpdotenv)
 
 #### Prerequisites
 * [composer](https://getcomposer.org)
