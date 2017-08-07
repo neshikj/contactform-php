@@ -1,0 +1,1 @@
+[2017-08-07 02:08:21] Mailgun.ERROR: Mailgun exception: No HTTPlug clients found. Make sure to install a package providing "php-http/client-implementation". Example: "php-http/guzzle6-adapter". [] []
